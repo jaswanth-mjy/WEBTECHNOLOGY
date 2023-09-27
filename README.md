@@ -272,5 +272,22 @@ This folder contains the materials for Lab 7 of the Web Technology course at VIT
 You can use this folder to organize and store the materials related to Lab 7. Ensure that you have the PHP files for all tasks as outlined in the instructions.
 
 
--LAB 8 QUESTION:
-Create webpage using ng-app,ng-bind-ng-init directive in AngularJS
+# Lab 8 - AngularJS Webpage with Directives
+
+This folder contains the materials for Lab 8 of the Web Technology course at VITAP.
+
+## Lab 8 - Task and Instructions
+
+### Task - Create AngularJS Webpage with Directives
+
+1. Create a webpage using AngularJS that utilizes the following AngularJS directives:
+   - `ng-app`
+   - `ng-bind`
+   - `ng-init`
+
+2. Create the webpage without making changes to the content, and print it as it is.
+
+---
+
+You can use this folder to organize and store the materials related to Lab 8. Ensure that you have the necessary HTML and AngularJS files to complete the
+
